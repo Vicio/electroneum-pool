@@ -64,6 +64,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * https://eupool.electroneum.com
 * https://uspool.electroneum.com
 * http://etn.proxpool.com <- cloud based, high efficiency, EU Pool Server, 0% fee
+* http://etnpool.com.mx <- cloud based, high efficiency, Mexico Pool Server, 0.2% fee
 * http://ucrypto.com
 * http://pool.electroneumcharts.com
 * https://easyhash.io/pools/etn
